@@ -19,7 +19,7 @@ Lung Cancer Analysis : https://github.com/kingsley1630/Data-Analysis-portfolio-/
 
 Retail Store Analysis : Sales Analysis.pbix
 
-Sales Analysis :
+Sales Analysis : Super Store Sales Analysis.pbix
 
 ## Currently Learning
 The use of Python programming languages for easier analysis
