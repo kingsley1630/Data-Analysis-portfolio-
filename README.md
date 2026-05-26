@@ -17,7 +17,7 @@ I am currently open to internship, freelance, and entry-level data analytics opp
 ## My projects
 Lung Cancer Analysis : https://github.com/kingsley1630/Data-Analysis-portfolio-/blob/main/LUNG%20CANCER%20ANALYSIS.pbix
 
-Retail Store Analysis : Sales Analysis.pbix
+Retail Store Analysis : https://github.com/kingsley1630/Data-Analysis-portfolio-/blob/main/Sales%20Analysis.pbix
 
 Sales Analysis : Super Store Sales Analysis.pbix
 
