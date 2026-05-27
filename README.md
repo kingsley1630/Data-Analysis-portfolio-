@@ -1,5 +1,5 @@
 # 📊 Data-Analysis-portfolio-
-## HI I'm kingsley,
+## HI 👋 I'm kingsley,
 I'm an aspiring Data Analyst passionate about transforming raw data into meaningful business insights.
 I have hands on experience using Power BI, Excel, SQL, and Power query to clean, analyze, and visualize data across sales, health care,and retail datasets. My projects focus on identifying trends, tracking performance, and creating interactive dashboards that support data-driven decision-making.
 
