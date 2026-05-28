@@ -25,6 +25,9 @@ Created patient ID
 
 ## 🔍📈 Key insights
 
+<img width="2442" height="1366" alt="image" src="https://github.com/user-attachments/assets/50a80ec7-84f3-4020-bdf8-3342a2e57dbb" />
+
+
 The analysis was conducted on data from 309 patients :
 
 The analysis shows that lung 🫁cancer is more prevalent among men than women with over 53.7%
@@ -34,6 +37,8 @@ Risk factors such as Chronic Disease ,peer pressure and smoking is more prevalen
 The age prevalence of lung cancer is 50-70 years as shown by the analysis.
 
 The dashboard also highlights symptoms prevalence and demographic risk parterns.
+
+Link to file  : https://github.com/kingsley1630/Data-Analysis-portfolio-/blob/main/LUNG%20CANCER%20ANALYSIS.pbix
 
 
 ## ✅ Recommendation
