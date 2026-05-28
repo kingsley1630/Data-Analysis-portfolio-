@@ -21,6 +21,9 @@ Power query
 
 ## 🔍KEY INSIGHTS
 
+<img width="2572" height="1362" alt="image" src="https://github.com/user-attachments/assets/fcf82f68-61ae-4f94-87ae-d077d4485ea5" />
+
+
 The sum of 13million was made from sales of 51.29 thousand orders and a total of 178 thousand goods sold which generated a profit of 1.47million.
 
 The APAC Market made more sales with a profit of 437.58k.
@@ -31,6 +34,8 @@ Consumer purchased the highest quantity of goods and generated the highest profi
 
 Standard Class is the preferred shipping mode with the quantity of 107 thousand goods shipped.
 The sum of 504.17 thousand was made in the year 2014 as profit .
+
+Link to file : https://github.com/kingsley1630/Data-Analysis-portfolio-/blob/main/Sales%20Analysis.pbix
 
 ## ✅RECOMMENDATION
 
