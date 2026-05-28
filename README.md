@@ -26,4 +26,7 @@ The use of Python programming languages for easier analysis
 
 ## ✅Let's Connect
 Facebook: https://www.facebook.com/share/1BSYQbu1y7/?mibextid=wwXIfr
+
 WhatsApp: +234 9076749519
+
+Linked: https://www.linkedin.com/in/kingsley-nwobi-30920a400/
