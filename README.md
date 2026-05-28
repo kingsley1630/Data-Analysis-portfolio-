@@ -15,11 +15,11 @@ I am continuously improving my skills in data analysis, dashboard design, and bu
 - SQL
 I am currently open to internship, freelance, and entry-level data analytics opportunities.
 ## 🚀 My projects
-🩺Lung Cancer Analysis : https://github.com/kingsley1630/Data-Analysis-portfolio-/blob/main/LUNG%20CANCER%20ANALYSIS.pbix
+🩺Lung Cancer Analysis : https://github.com/kingsley1630/Data-Analysis-portfolio-/blob/main/LUNG%20CANCER.md
 
-🛒Retail Store Analysis : https://github.com/kingsley1630/Data-Analysis-portfolio-/blob/main/Sales%20Analysis.pbix
+🛒Retail Store Analysis : https://github.com/kingsley1630/Data-Analysis-portfolio-/blob/main/SUPERSTORE.md
 
-🛒Sales Analysis : https://github.com/kingsley1630/Data-Analysis-portfolio-/blob/main/Super%20Store%20Sales%20Analysis.pbix
+🛒Sales Analysis : https://github.com/kingsley1630/Data-Analysis-portfolio-/blob/main/SALES%20ANALYSIS.md
 
 ## Currently Learning
 The use of Python programming languages for easier analysis
